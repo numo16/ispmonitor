@@ -1,0 +1,16 @@
+hash: 0775545f70413e6ce96628e930ee6b5d011180854f9217ac96b047534fa2e5be
+updated: 2017-02-02T22:00:26.287932017-05:00
+imports:
+- name: github.com/mitchellh/go-homedir
+  version: b8bc1bf767474819792c23f32d8286a45736f1c6
+- name: github.com/moul/http2curl
+  version: 4e24498b31dba4683efb9d35c1c8a91e2eda28c8
+- name: github.com/parnurzeal/gorequest
+  version: 2aea80ce763523ecc6452e61c3727ae9595a5809
+- name: golang.org/x/net
+  version: 007e530097ad7f954752df63046b4036f98ba6a6
+  subpackages:
+  - publicsuffix
+- name: gopkg.in/natefinch/lumberjack.v2
+  version: 8ec9c6b748e0c75183863d208c8442319ddc5321
+testImports: []

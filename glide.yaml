@@ -1,0 +1,8 @@
+package: github.com/numo16/ispmonitor
+import:
+- package: gopkg.in/natefinch/lumberjack.v2
+  version: ^1.0.0
+- package: github.com/parnurzeal/gorequest
+  version: ^0.2.14
+- package: github.com/moul/http2curl
+- package: github.com/mitchellh/go-homedir
